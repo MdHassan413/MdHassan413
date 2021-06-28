@@ -2,7 +2,8 @@
 - 👀 I’m interested in Coding "Python Developer" 
 - 🌱 I’m currently learning [Python, React]
 - 💞️ I’m looking to collaborate With Google :)
-<br />
+
+[![Twitter](https://img.shields.io/twitter/follow/AnsariMDHassan1?color=%232478CC&label=Twitter%20Account&logo=Twitter&style=flat-square)](https://twitter.com/AnsariMDHassan1)
 
 ---
 
