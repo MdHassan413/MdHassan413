@@ -11,7 +11,7 @@
  
 |PDFs Download | [Python JNB Notes](https://drive.google.com/drive/folders/1N0UPoCPz-x_VjzPuPCJ_oKT_lI2MFZmG?usp=sharing) | [HTML-5 Cheat Sheet](https://drive.google.com/drive/folders/19PKKraXvm7txRRlK1U19Wg7ImWChGlcX?usp=sharing) | [CSS-3 cheat sheet](https://drive.google.com/drive/folders/1vaGVnqSHfbqTUHlCKsE4U2wk9KRGjv-z?usp=sharing)
 | --- | --- | -- | ---
-|YT Channel Suggest |[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) |[CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) |[Geeky Shows](https://www.youtube.com/user/GeekyShow1)
+|YT Channel Suggest |[FreeCodeCamp](https://www.youtube.com/c/Freecodecamp) |[CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) |[Geeky Shows](https://www.youtube.com/user/GeekyShow1)
 
 
 <!---
