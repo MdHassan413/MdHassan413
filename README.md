@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m MD Hassan Ansari
 - 👀 I’m interested in Coding "Python Developer" 
 - 🌱 I’m currently learning [Python, React]
-- 💞️ I’m looking to collaborate With Google No 'it's not joke' 😂
+- 💞️ I’m looking to collaborate With Google 'Yup,this is joke' 😂
 
 [![Twitter](https://img.shields.io/twitter/follow/AnsariMDHassan1?color=%232478CC&label=Twitter%20Account&logo=Twitter&style=flat-square)](https://twitter.com/AnsariMDHassan1)
 [![code style: black](https://img.shields.io/static/v1?label=code%20style&message=black&color=black&style=flat-square)](https://github.com/)
