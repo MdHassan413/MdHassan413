@@ -16,6 +16,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+
 ## Purpose To Make You Easier :)
  
 |PDFs Download | [Python JNB Notes](https://drive.google.com/drive/folders/1N0UPoCPz-x_VjzPuPCJ_oKT_lI2MFZmG?usp=sharing) | [HTML-5 Cheat Sheet](https://drive.google.com/drive/folders/19PKKraXvm7txRRlK1U19Wg7ImWChGlcX?usp=sharing) | [CSS-3 cheat sheet](https://drive.google.com/drive/folders/1vaGVnqSHfbqTUHlCKsE4U2wk9KRGjv-z?usp=sharing)
