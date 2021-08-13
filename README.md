@@ -25,7 +25,7 @@
 |YT Channel Suggest |[FreeCodeCamp](https://www.youtube.com/c/Freecodecamp) |[CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) |[Geeky Shows](https://www.youtube.com/user/GeekyShow1)
 
 ---
-[![Top Language use by Sultan](https://github-readme-stats.vercel.app/api/top-langs/?username=MdHassan413)](https://github.com/MdHassan413/github-readme-stats)
+[![Top Language use by Hassan](https://github-readme-stats.vercel.app/api/top-langs/?username=MdHassan413&layout=compact&theme=tokyonight)](https://github.com/MdHassan413/github-readme-stats)
 <!---
 MdHassan413/MdHassan413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
