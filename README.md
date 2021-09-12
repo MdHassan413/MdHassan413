@@ -59,11 +59,11 @@
 ---
  
 <table>
-  <th> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdHassan413&theme=tokyonight" width="350vh;"/></th>
-  <th><img src="https://github-readme-stats.vercel.app/api?username=MdHassan413&theme=tokyonight" width="350vh;"/></th>
+  <th> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdHassan413&theme=dark" width="350vh;"/></th>
+  <th><img src="https://github-readme-stats.vercel.app/api?username=MdHassan413&theme=dark" width="350vh;"/></th>
 </table>
 <table>
-  <th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHassan413&layout=compact&theme=tokyonight" width="350vh;" alt="MdHassan" /></th>
+  <th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHassan413&layout=compact&theme=dark" width="350vh;" alt="MdHassan" /></th>
 </table>
 <!---
 MdHassan413/MdHassan413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
