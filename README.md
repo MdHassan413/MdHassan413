@@ -3,21 +3,52 @@
 - 🌱 I’m currently learning [Python, React]
 - 💞️ I’m looking to collaborate With Google 'Yup,this is joke' 😂
 
+<hr>
 <table>
- <thead>
-    <td><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></td>
-    <td><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></td>
-    <td><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></td>
-    <td><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code></td>
-    <td><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></td>
-    <td><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code></td>
-    <td><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code></td>
-    <td><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code></td>
-    <td><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code></td>
- </thead>
+    <td>Languages</td>
+    <td><img src="MySkills/vscode-icons_file-type-python.png" width="25px;"></td>
+    <td><img src="MySkills/logos_javascript.png" width="25px;"></td>
+    <td><img src="MySkills/logos_php.png" width="25px;"></td>
+    <td><img src="MySkills/logos_java.png" width="25px;"></td>
+    <td><img src="MySkills/logos_c.png" width="25px;"></td>
+    <td><img src="MySkills/logos_c-plusplus.png" width="25px;"></td>
+</table>
+<table>
+  <tr>
+    <td>Database</td>
+    <td><img src="MySkills/vscode-icons_file-type-mongo.png" width="35px;"></td>
+     <td><img src="MySkills/logos_postgresql.png" width="30px;"></td>
+     <td><img src="MySkills/logos_mysql.png" width="30px;"></td>
+     <td><img src="MySkills/logos_redis.png" width="30px;"></td>
+  </tr>
+</table>
+<table>
+   <tr>
+    <td>DevOps</td>
+    <td><img src="MySkills/logos_github-octocat.png" width="30px;"></td>
+     <td><img src="MySkills/logos_gitlab.png" width="30px;"></td>
+     <td><img src="MySkills/logos_git-icon.png" width="30px;"></td>
+     <td><img src="MySkills/logos_postman.png" width="30px;"></td>
+  </tr>
+ </table>
+ <table>
+ <tr>
+    <td>UI Design</td>
+    <td><img src="MySkills/grommet-icons_figma.png" width="30px;"></td>
+    <td><img src="MySkills/cib_adobe-xd.png" width="30px;"></td>
+    <td><img src="MySkills/cib_canva.png" width="30px;"></td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+    <td>Cloud</td>
+    <td><img src="MySkills/logos_digital-ocean.png" width="45px;"></td>
+    <td><img src="MySkills/logos_heroku-icon.png" width="30px;"></td>
+    <td><img src="MySkills/share-godaddy-general-v02.jpg" width="30px;"></td>
+  </tr>
 </table>
 
----
+<hr>
 
  ## Purpose To Make You Easier :)
  
@@ -26,13 +57,14 @@
 |YT Channel Suggest |[FreeCodeCamp](https://www.youtube.com/c/Freecodecamp) |[CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) |[Geeky Shows](https://www.youtube.com/user/GeekyShow1)
 
 ---
-[![Top Language use by Hassan](https://github-readme-stats.vercel.app/api/top-langs/?username=MdHassan413&layout=compact&theme=tokyonight)](https://github.com/MdHassan413/github-readme-stats)
-
-[![Twitter](https://img.shields.io/twitter/follow/AnsariMDHassan1?color=%232478CC&label=Twitter%20Account&logo=Twitter&style=flat-square)](https://twitter.com/AnsariMDHassan1)
-[![Coding Style: Dark](https://img.shields.io/static/v1?label=code%20style&message=black&color=black&style=flat-square)](https://github.com/)
-![](https://komarev.com/ghpvc/?username=MdHassan413)
  
-
+<table>
+  <th> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdHassan413&theme=tokyonight" width="350vh;"/></th>
+  <th><img src="https://github-readme-stats.vercel.app/api?username=MdHassan413&theme=tokyonight" width="350vh;"/></th>
+</table>
+<table>
+  <th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHassan413&layout=compact&theme=tokyonight" width="350vh;" alt="MdHassan" /></th>
+</table>
 <!---
 MdHassan413/MdHassan413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
