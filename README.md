@@ -62,9 +62,9 @@
   <th> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdHassan413&theme=dark" width="350vh;"/></th>
   <th><img src="https://github-readme-stats.vercel.app/api?username=MdHassan413&theme=dark" width="350vh;"/></th>
 </table>
-<table>
+<!-- <table>
   <th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHassan413&layout=compact&theme=dark" width="350vh;" alt="MdHassan" /></th>
-</table>
+</table> -->
 <!---
 MdHassan413/MdHassan413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
