@@ -8,7 +8,7 @@ I'm a fresher and searching for an organization to explore my skill and knowledg
 
 * 🌍  I'm based in Maharashtra, India
 * ✉️  You can contact me at [ah1769413@gmail.com](mailto:ah1769413@gmail.com)
-* 🧠  I'm learning React, Aws
+* 🧠  I'm learning Full-stack Developer
 * ⚡  I'm secretly Spiderman. but don't tell anyone :)
 
 ## 🚀 Skills And Technologys Know
